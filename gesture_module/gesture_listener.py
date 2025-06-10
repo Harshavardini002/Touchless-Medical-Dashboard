@@ -1,5 +1,5 @@
 import cv2
-from hand_detector import HandGestureDetector
+from gesture_module.hand_detector import HandGestureDetector
 import json
 
 # Finger gesture mapping
